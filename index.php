@@ -1,5 +1,6 @@
 <?php
-    require 'db/config.php';
+    session_start();
+    require 'dbconfig/config.php';
 ?>
 
 <!DOCTYPE html>
