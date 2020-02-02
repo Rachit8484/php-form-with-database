@@ -16,9 +16,9 @@
             <img src = "img/avatar.png" class = "avatar"/>
         </center>
   
-        <form class="myform" action = "homepage.php" method = "post">
+        <form class="myform" action = "index.php" method = "post">
         
-            <input type="submit" id="login_btn" value="Login"/><br>
+            <input type="submit" id="logout_btn" value="Log Out"/><br>
         
         </form>
     </div> 
